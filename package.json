@@ -1,0 +1,13 @@
+{
+  "name": "thedarkpanel",
+  "version": "1.0.0",
+  "description": "TheDarkPanel - Device Management Console",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "vercel",
+    "dev": "echo 'Just open index.html in browser'"
+  },
+  "keywords": ["vercel", "html", "panel"],
+  "author": "TheDarkPanel",
+  "license": "ISC"
+}
